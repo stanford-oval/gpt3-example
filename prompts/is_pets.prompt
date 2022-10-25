@@ -1,0 +1,13 @@
+Determine if the topic of each sentence is about pets (cats, dogs, etc.)
+
+Sentence: I have 5 labradors, and I love them very much!
+Q: is this sentence about pets?
+A: Yes
+
+Sentence: "I go to the gym in my free time.
+Q: is this sentence about pets?
+A: No
+
+Sentence: {utterance}
+Q: is this sentence about pets?
+A:

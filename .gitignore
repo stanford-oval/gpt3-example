@@ -1,0 +1,15 @@
+__pycache__
+config.mk
+project_config.mk
+.idea/
+.vscode/
+.DS_Store
+.ipynb_checkpoints
+*~
+*.swp
+*.tmp
+Pipfile.lock
+Pipfile
+
+API_KEYS
+output.txt
