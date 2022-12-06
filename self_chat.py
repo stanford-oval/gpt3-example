@@ -51,7 +51,8 @@ if __name__ == '__main__':
                                  'text-curie-001',
                                  'davinci',
                                  'text-davinci-001',
-                                 'text-davinci-002'],
+                                 'text-davinci-002',
+                                 'text-davinci-003'],
                         help='The GPT-3 engine to use.')  # choices are from the smallest to the largest model
 
     parser.add_argument('--num_inputs', type=int, default=1, required=False, help='Number of dialogs to read from the input file (default: 1')
